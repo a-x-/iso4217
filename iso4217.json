@@ -1107,9 +1107,10 @@
         "Num": "810",
         "CCC": "",
         "Obsolete": "",
+        "isObsolete": true,
         "TextSymbol": "руб.",
         "Symbol": "₽",
-        "Fraction": ""
+        "Fraction": 2
     },
     "818": {
         "Location": "EGYPT",
@@ -1142,7 +1143,7 @@
         "Fraction": 2
     },
     "840": {
-        "Location": "VIRGIN ISLANDS (U.S.)",
+        "Location": "UNITED STATES",
         "Currency": "US Dollar",
         "Code": "USD",
         "Num": "840",
