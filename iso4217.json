@@ -1,0 +1,1835 @@
+{
+    "104": {
+        "Location": "MYANMAR",
+        "Currency": "Kyat",
+        "Code": "MMK",
+        "Num": "104",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 2
+    },
+    "108": {
+        "Location": "BURUNDI",
+        "Currency": "Burundi Franc",
+        "Code": "BIF",
+        "Num": "108",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "BIF",
+        "Fraction": ""
+    },
+    "116": {
+        "Location": "CAMBODIA",
+        "Currency": "Riel",
+        "Code": "KHR",
+        "Num": "116",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "៛",
+        "Fraction": 2
+    },
+    "124": {
+        "Location": "CANADA",
+        "Currency": "Canadian Dollar",
+        "Code": "CAD",
+        "Num": "124",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "$",
+        "Fraction": 2
+    },
+    "132": {
+        "Location": "CAPE VERDE",
+        "Currency": "Cape Verde Escudo",
+        "Code": "CVE",
+        "Num": "132",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "$",
+        "Fraction": 2
+    },
+    "136": {
+        "Location": "CAYMAN ISLANDS",
+        "Currency": "Cayman Islands Dollar",
+        "Code": "KYD",
+        "Num": "136",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "$",
+        "Fraction": 2
+    },
+    "144": {
+        "Location": "SRI LANKA",
+        "Currency": "Sri Lanka Rupee",
+        "Code": "LKR",
+        "Num": "144",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "₨",
+        "Fraction": 2
+    },
+    "152": {
+        "Location": "CHILE",
+        "Currency": "Chilean Peso",
+        "Code": "CLP",
+        "Num": "152",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "$",
+        "Fraction": ""
+    },
+    "156": {
+        "Location": "CHINA",
+        "Currency": "Yuan Renminbi",
+        "Code": "CNY",
+        "Num": "156",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "¥",
+        "Fraction": 2
+    },
+    "170": {
+        "Location": "COLOMBIA",
+        "Currency": "Colombian Peso",
+        "Code": "COP",
+        "Num": "170",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "$",
+        "Fraction": 2
+    },
+    "174": {
+        "Location": "COMOROS",
+        "Currency": "Comoro Franc",
+        "Code": "KMF",
+        "Num": "174",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": ""
+    },
+    "188": {
+        "Location": "COSTA RICA",
+        "Currency": "Costa Rican Colon",
+        "Code": "CRC",
+        "Num": "188",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "₡",
+        "Fraction": 2
+    },
+    "191": {
+        "Location": "CROATIA",
+        "Currency": "Croatian Kuna",
+        "Code": "HRK",
+        "Num": "191",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "kn",
+        "Fraction": 2
+    },
+    "192": {
+        "Location": "CUBA",
+        "Currency": "Cuban Peso",
+        "Code": "CUP",
+        "Num": "192",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "₱",
+        "Fraction": 2
+    },
+    "196": {
+        "Location": "CYPRUS",
+        "Currency": "Cyprus Pound",
+        "Code": "CYP",
+        "Num": "196",
+        "CCC": "",
+        "Obsolete": "EUR",
+        "Symbol": "€",
+        "Fraction": ""
+    },
+    "203": {
+        "Location": "CZECH REPUBLIC",
+        "Currency": "Czech Koruna",
+        "Code": "CZK",
+        "Num": "203",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "Kč",
+        "Fraction": 2
+    },
+    "208": {
+        "Location": "GREENLAND",
+        "Currency": "Danish Krone",
+        "Code": "DKK",
+        "Num": "208",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "kr",
+        "Fraction": 2
+    },
+    "214": {
+        "Location": "DOMINICAN REPUBLIC",
+        "Currency": "Dominican Peso",
+        "Code": "DOP",
+        "Num": "214",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "RD$",
+        "Fraction": 2
+    },
+    "222": {
+        "Location": "EL SALVADOR",
+        "Currency": "El Salvador Colon",
+        "Code": "SVC",
+        "Num": "222",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "$",
+        "Fraction": 2
+    },
+    "230": {
+        "Location": "ETHIOPIA",
+        "Currency": "Ethiopian Birr",
+        "Code": "ETB",
+        "Num": "230",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 2
+    },
+    "232": {
+        "Location": "ERITREA",
+        "Currency": "Nakfa",
+        "Code": "ERN",
+        "Num": "232",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 2
+    },
+    "233": {
+        "Location": "ESTONIA",
+        "Currency": "Kroon",
+        "Code": "EEK",
+        "Num": "233",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": ""
+    },
+    "238": {
+        "Location": "FALKLAND ISLANDS (MALVINAS)",
+        "Currency": "Falkland Islands Pound",
+        "Code": "FKP",
+        "Num": "238",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "£",
+        "Fraction": 2
+    },
+    "242": {
+        "Location": "FIJI",
+        "Currency": "Fiji Dollar",
+        "Code": "FJD",
+        "Num": "242",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "$",
+        "Fraction": 2
+    },
+    "262": {
+        "Location": "DJIBOUTI",
+        "Currency": "Djibouti Franc",
+        "Code": "DJF",
+        "Num": "262",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": ""
+    },
+    "270": {
+        "Location": "GAMBIA",
+        "Currency": "Dalasi",
+        "Code": "GMD",
+        "Num": "270",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 2
+    },
+    "292": {
+        "Location": "GIBRALTAR",
+        "Currency": "Gibraltar Pound",
+        "Code": "GIP",
+        "Num": "292",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "£",
+        "Fraction": 2
+    },
+    "320": {
+        "Location": "GUATEMALA",
+        "Currency": "Quetzal",
+        "Code": "GTQ",
+        "Num": "320",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "Q",
+        "Fraction": 2
+    },
+    "324": {
+        "Location": "GUINEA",
+        "Currency": "Guinea Franc",
+        "Code": "GNF",
+        "Num": "324",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": ""
+    },
+    "328": {
+        "Location": "GUYANA",
+        "Currency": "Guyana Dollar",
+        "Code": "GYD",
+        "Num": "328",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "$",
+        "Fraction": 2
+    },
+    "332": {
+        "Location": "HAITI",
+        "Currency": "Gourde",
+        "Code": "HTG",
+        "Num": "332",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 2
+    },
+    "340": {
+        "Location": "HONDURAS",
+        "Currency": "Lempira",
+        "Code": "HNL",
+        "Num": "340",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "L",
+        "Fraction": 2
+    },
+    "344": {
+        "Location": "HONG KONG",
+        "Currency": "Hong Kong Dollar",
+        "Code": "HKD",
+        "Num": "344",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "$",
+        "Fraction": 2
+    },
+    "348": {
+        "Location": "HUNGARY",
+        "Currency": "Forint",
+        "Code": "HUF",
+        "Num": "348",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "Ft",
+        "Fraction": 2
+    },
+    "352": {
+        "Location": "ICELAND",
+        "Currency": "Iceland Krona",
+        "Code": "ISK",
+        "Num": "352",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "kr",
+        "Fraction": ""
+    },
+    "356": {
+        "Location": "INDIA",
+        "Currency": "Indian Rupee",
+        "Code": "INR",
+        "Num": "356",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "₹",
+        "Fraction": 2
+    },
+    "360": {
+        "Location": "INDONESIA",
+        "Currency": "Rupiah",
+        "Code": "IDR",
+        "Num": "360",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "Rp",
+        "Fraction": 2
+    },
+    "364": {
+        "Location": "ISLAMIC REPUBLIC OF IRAN",
+        "Currency": "Iranian Rial",
+        "Code": "IRR",
+        "Num": "364",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "﷼",
+        "Fraction": 2
+    },
+    "368": {
+        "Location": "IRAQ",
+        "Currency": "Iraqi Dinar",
+        "Code": "IQD",
+        "Num": "368",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 3
+    },
+    "376": {
+        "Location": "ISRAEL",
+        "Currency": "New Israeli Sheqel",
+        "Code": "ILS",
+        "Num": "376",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "₪",
+        "Fraction": 2
+    },
+    "388": {
+        "Location": "JAMAICA",
+        "Currency": "Jamaican Dollar",
+        "Code": "JMD",
+        "Num": "388",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "J$",
+        "Fraction": 2
+    },
+    "392": {
+        "Location": "JAPAN",
+        "Currency": "Yen",
+        "Code": "JPY",
+        "Num": "392",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "¥",
+        "Fraction": ""
+    },
+    "398": {
+        "Location": "KAZAKHSTAN",
+        "Currency": "Tenge",
+        "Code": "KZT",
+        "Num": "398",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "₸",
+        "Fraction": 2
+    },
+    "400": {
+        "Location": "JORDAN",
+        "Currency": "Jordanian Dinar",
+        "Code": "JOD",
+        "Num": "400",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 3
+    },
+    "404": {
+        "Location": "KENYA",
+        "Currency": "Kenyan Shilling",
+        "Code": "KES",
+        "Num": "404",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 2
+    },
+    "408": {
+        "Location": "DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA",
+        "Currency": "North Korean Won",
+        "Code": "KPW",
+        "Num": "408",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "₩",
+        "Fraction": 2
+    },
+    "410": {
+        "Location": "REPUBLIC OF KOREA",
+        "Currency": "Won",
+        "Code": "KRW",
+        "Num": "410",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "₩",
+        "Fraction": ""
+    },
+    "414": {
+        "Location": "KUWAIT",
+        "Currency": "Kuwaiti Dinar",
+        "Code": "KWD",
+        "Num": "414",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 3
+    },
+    "417": {
+        "Location": "KYRGYZSTAN",
+        "Currency": "Som",
+        "Code": "KGS",
+        "Num": "417",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "som",
+        "Fraction": 2
+    },
+    "418": {
+        "Location": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+        "Currency": "Kip",
+        "Code": "LAK",
+        "Num": "418",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "₭",
+        "Fraction": 2
+    },
+    "422": {
+        "Location": "LEBANON",
+        "Currency": "Lebanese Pound",
+        "Code": "LBP",
+        "Num": "422",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "£",
+        "Fraction": 2
+    },
+    "426": {
+        "Location": "LESOTHO",
+        "Currency": "Loti",
+        "Code": "LSL",
+        "Num": "426",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 2
+    },
+    "428": {
+        "Location": "LATVIA",
+        "Currency": "Latvian Lats",
+        "Code": "LVL",
+        "Num": "428",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": ""
+    },
+    "430": {
+        "Location": "LIBERIA",
+        "Currency": "Liberian Dollar",
+        "Code": "LRD",
+        "Num": "430",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "$",
+        "Fraction": 2
+    },
+    "434": {
+        "Location": "LIBYAN ARAB JAMAHIRIYA",
+        "Currency": "Libyan Dinar",
+        "Code": "LYD",
+        "Num": "434",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 3
+    },
+    "440": {
+        "Location": "LITHUANIA",
+        "Currency": "Lithuanian Litas",
+        "Code": "LTL",
+        "Num": "440",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "Lt",
+        "Fraction": 2
+    },
+    "446": {
+        "Location": "MACAO",
+        "Currency": "Pataca",
+        "Code": "MOP",
+        "Num": "446",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 2
+    },
+    "454": {
+        "Location": "MALAWI",
+        "Currency": "Kwacha",
+        "Code": "MWK",
+        "Num": "454",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 2
+    },
+    "458": {
+        "Location": "MALAYSIA",
+        "Currency": "Malaysian Ringgit",
+        "Code": "MYR",
+        "Num": "458",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "RM",
+        "Fraction": 2
+    },
+    "462": {
+        "Location": "MALDIVES",
+        "Currency": "Rufiyaa",
+        "Code": "MVR",
+        "Num": "462",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 2
+    },
+    "470": {
+        "Location": "MALTA",
+        "Currency": "Maltese Lira",
+        "Code": "MTL",
+        "Num": "470",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": ""
+    },
+    "478": {
+        "Location": "MAURITANIA",
+        "Currency": "Ouguiya",
+        "Code": "MRO",
+        "Num": "478",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 2
+    },
+    "480": {
+        "Location": "MAURITIUS",
+        "Currency": "Mauritius Rupee",
+        "Code": "MUR",
+        "Num": "480",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "₨",
+        "Fraction": 2
+    },
+    "484": {
+        "Location": "MEXICO",
+        "Currency": "Mexican Peso ",
+        "Code": "MXN",
+        "Num": "484",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "$",
+        "Fraction": 2
+    },
+    "496": {
+        "Location": "MONGOLIA",
+        "Currency": "Tugrik",
+        "Code": "MNT",
+        "Num": "496",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "₮",
+        "Fraction": 2
+    },
+    "498": {
+        "Location": "REPUBLIC OF MOLDOVA",
+        "Currency": "Moldovan Leu",
+        "Code": "MDL",
+        "Num": "498",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 2
+    },
+    "504": {
+        "Location": "WESTERN SAHARA",
+        "Currency": "Moroccan Dirham",
+        "Code": "MAD",
+        "Num": "504",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 2
+    },
+    "512": {
+        "Location": "OMAN",
+        "Currency": "Rial Omani",
+        "Code": "OMR",
+        "Num": "512",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "﷼",
+        "Fraction": 3
+    },
+    "516": {
+        "Location": "NAMIBIA",
+        "Currency": "Namibia Dollar",
+        "Code": "NAD",
+        "Num": "516",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "$",
+        "Fraction": 2
+    },
+    "524": {
+        "Location": "NEPAL",
+        "Currency": "Nepalese Rupee",
+        "Code": "NPR",
+        "Num": "524",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "₨",
+        "Fraction": 2
+    },
+    "532": {
+        "Location": "NETHERLANDS ANTILLES",
+        "Currency": "Netherlands Antillian Guilder",
+        "Code": "ANG",
+        "Num": "532",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "ƒ",
+        "Fraction": 2
+    },
+    "533": {
+        "Location": "ARUBA",
+        "Currency": "Aruban Guilder",
+        "Code": "AWG",
+        "Num": "533",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "ƒ",
+        "Fraction": 2
+    },
+    "548": {
+        "Location": "VANUATU",
+        "Currency": "Vatu",
+        "Code": "VUV",
+        "Num": "548",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": ""
+    },
+    "554": {
+        "Location": "TOKELAU",
+        "Currency": "New Zealand Dollar",
+        "Code": "NZD",
+        "Num": "554",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "$",
+        "Fraction": 2
+    },
+    "558": {
+        "Location": "NICARAGUA",
+        "Currency": "Cordoba Oro",
+        "Code": "NIO",
+        "Num": "558",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "C$",
+        "Fraction": 2
+    },
+    "566": {
+        "Location": "NIGERIA",
+        "Currency": "Naira",
+        "Code": "NGN",
+        "Num": "566",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "₦",
+        "Fraction": 2
+    },
+    "578": {
+        "Location": "SVALBARD AND JAN MAYEN",
+        "Currency": "Norwegian Krone",
+        "Code": "NOK",
+        "Num": "578",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "kr",
+        "Fraction": 2
+    },
+    "586": {
+        "Location": "PAKISTAN",
+        "Currency": "Pakistan Rupee",
+        "Code": "PKR",
+        "Num": "586",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "₨",
+        "Fraction": 2
+    },
+    "590": {
+        "Location": "PANAMA",
+        "Currency": "Balboa",
+        "Code": "PAB",
+        "Num": "590",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "B/.",
+        "Fraction": 2
+    },
+    "598": {
+        "Location": "PAPUA NEW GUINEA",
+        "Currency": "Kina",
+        "Code": "PGK",
+        "Num": "598",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "K",
+        "Fraction": 2
+    },
+    "600": {
+        "Location": "PARAGUAY",
+        "Currency": "Guarani",
+        "Code": "PYG",
+        "Num": "600",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "Gs",
+        "Fraction": ""
+    },
+    "604": {
+        "Location": "PERU",
+        "Currency": "Nuevo Sol",
+        "Code": "PEN",
+        "Num": "604",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "S/",
+        "Fraction": 2
+    },
+    "608": {
+        "Location": "PHILIPPINES",
+        "Currency": "Philippine Peso",
+        "Code": "PHP",
+        "Num": "608",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "₱",
+        "Fraction": 2
+    },
+    "624": {
+        "Location": "GUINEA-BISSAU",
+        "Currency": "Guinea-Bissau Peso",
+        "Code": "GWP",
+        "Num": "624",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": ""
+    },
+    "634": {
+        "Location": "QATAR",
+        "Currency": "Qatari Rial",
+        "Code": "QAR",
+        "Num": "634",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "﷼",
+        "Fraction": 2
+    },
+    "643": {
+        "Location": "RUSSIAN FEDERATION",
+        "Currency": "Russian Ruble",
+        "Code": "RUB",
+        "Num": "643",
+        "CCC": "",
+        "Obsolete": "RUR",
+        "TextSymbol": "руб.",
+        "Symbol": "₽",
+        "Fraction": 2
+    },
+    "646": {
+        "Location": "RWANDA",
+        "Currency": "Rwanda Franc",
+        "Code": "RWF",
+        "Num": "646",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "R₣",
+        "Fraction": ""
+    },
+    "654": {
+        "Location": "SAINT HELENA",
+        "Currency": "Saint Helena Pound",
+        "Code": "SHP",
+        "Num": "654",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "£",
+        "Fraction": 2
+    },
+    "678": {
+        "Location": "SAO TOME AND PRINCIPE",
+        "Currency": "Dobra",
+        "Code": "STD",
+        "Num": "678",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 2
+    },
+    "682": {
+        "Location": "SAUDI ARABIA",
+        "Currency": "Saudi Riyal",
+        "Code": "SAR",
+        "Num": "682",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "﷼",
+        "Fraction": 2
+    },
+    "690": {
+        "Location": "SEYCHELLES",
+        "Currency": "Seychelles Rupee",
+        "Code": "SCR",
+        "Num": "690",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "₨",
+        "Fraction": 2
+    },
+    "694": {
+        "Location": "SIERRA LEONE",
+        "Currency": "Leone",
+        "Code": "SLL",
+        "Num": "694",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "Le",
+        "Fraction": 2
+    },
+    "702": {
+        "Location": "SINGAPORE",
+        "Currency": "Singapore Dollar",
+        "Code": "SGD",
+        "Num": "702",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "$",
+        "Fraction": 2
+    },
+    "703": {
+        "Location": "SLOVAKIA",
+        "Currency": "Slovak Koruna",
+        "Code": "SKK",
+        "Num": "703",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": ""
+    },
+    "704": {
+        "Location": "VIET NAM",
+        "Currency": "Dong",
+        "Code": "VND",
+        "Num": "704",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "₫",
+        "Fraction": ""
+    },
+    "706": {
+        "Location": "SOMALIA",
+        "Currency": "Somali Shilling",
+        "Code": "SOS",
+        "Num": "706",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "S",
+        "Fraction": 2
+    },
+    "710": {
+        "Location": "SOUTH AFRICA",
+        "Currency": "Rand",
+        "Code": "ZAR",
+        "Num": "710",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "R",
+        "Fraction": 2
+    },
+    "716": {
+        "Location": "ZIMBABWE",
+        "Currency": "Zimbabwe Dollar",
+        "Code": "ZWD",
+        "Num": "716",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": ""
+    },
+    "748": {
+        "Location": "SWAZILAND",
+        "Currency": "Lilangeni",
+        "Code": "SZL",
+        "Num": "748",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 2
+    },
+    "752": {
+        "Location": "SWEDEN",
+        "Currency": "Swedish Krona",
+        "Code": "SEK",
+        "Num": "752",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "kr",
+        "Fraction": 2
+    },
+    "756": {
+        "Location": "SWITZERLAND",
+        "Currency": "Swiss Franc",
+        "Code": "CHF",
+        "Num": "756",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "CHF",
+        "Fraction": 2
+    },
+    "760": {
+        "Location": "SYRIAN ARAB REPUBLIC",
+        "Currency": "Syrian Pound",
+        "Code": "SYP",
+        "Num": "760",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "£",
+        "Fraction": 2
+    },
+    "764": {
+        "Location": "THAILAND",
+        "Currency": "Baht",
+        "Code": "THB",
+        "Num": "764",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "฿",
+        "Fraction": 2
+    },
+    "776": {
+        "Location": "TONGA",
+        "Currency": "Pa'anga",
+        "Code": "TOP",
+        "Num": "776",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 2
+    },
+    "780": {
+        "Location": "TRINIDAD AND TOBAGO",
+        "Currency": "Trinidad and Tobago Dollar",
+        "Code": "TTD",
+        "Num": "780",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "TT$",
+        "Fraction": 2
+    },
+    "784": {
+        "Location": "UNITED ARAB EMIRATES",
+        "Currency": "UAE Dirham",
+        "Code": "AED",
+        "Num": "784",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 2
+    },
+    "788": {
+        "Location": "TUNISIA",
+        "Currency": "Tunisian Dinar",
+        "Code": "TND",
+        "Num": "788",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 3
+    },
+    "795": {
+        "Location": "TURKMENISTAN",
+        "Currency": "Manat",
+        "Code": "TMM",
+        "Num": "795",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": ""
+    },
+    "800": {
+        "Location": "UGANDA",
+        "Currency": "Uganda Shilling",
+        "Code": "UGX",
+        "Num": "800",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": ""
+    },
+    "807": {
+        "Location": "THE FORMER YUGOSLAV REPUBLIC OF MACEDONIA",
+        "Currency": "Denar",
+        "Code": "MKD",
+        "Num": "807",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "ден",
+        "Fraction": 2
+    },
+    "810": {
+        "Location": "RUSSIAN FEDERATION",
+        "Currency": "Russian Ruble (obsolete)",
+        "Code": "RUR",
+        "Num": "810",
+        "CCC": "",
+        "Obsolete": "",
+        "TextSymbol": "руб.",
+        "Symbol": "₽",
+        "Fraction": ""
+    },
+    "818": {
+        "Location": "EGYPT",
+        "Currency": "Egyptian Pound",
+        "Code": "EGP",
+        "Num": "818",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "£",
+        "Fraction": 2
+    },
+    "826": {
+        "Location": "UNITED KINGDOM",
+        "Currency": "Pound Sterling",
+        "Code": "GBP",
+        "Num": "826",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "£",
+        "Fraction": 2
+    },
+    "834": {
+        "Location": "UNITED REPUBLIC OF TANZANIA",
+        "Currency": "Tanzanian Shilling",
+        "Code": "TZS",
+        "Num": "834",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 2
+    },
+    "840": {
+        "Location": "VIRGIN ISLANDS (U.S.)",
+        "Currency": "US Dollar",
+        "Code": "USD",
+        "Num": "840",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "$",
+        "Fraction": 2
+    },
+    "858": {
+        "Location": "URUGUAY",
+        "Currency": "Peso Uruguayo ",
+        "Code": "UYU",
+        "Num": "858",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "$U",
+        "Fraction": 2
+    },
+    "860": {
+        "Location": "UZBEKISTAN",
+        "Currency": "Uzbekistan Sum",
+        "Code": "UZS",
+        "Num": "860",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "som",
+        "Fraction": 2
+    },
+    "882": {
+        "Location": "SAMOA",
+        "Currency": "Tala",
+        "Code": "WST",
+        "Num": "882",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "$",
+        "Fraction": 2
+    },
+    "886": {
+        "Location": "YEMEN",
+        "Currency": "Yemeni Rial",
+        "Code": "YER",
+        "Num": "886",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "﷼",
+        "Fraction": 2
+    },
+    "894": {
+        "Location": "ZAMBIA",
+        "Currency": "Kwacha",
+        "Code": "ZMK",
+        "Num": "894",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": ""
+    },
+    "901": {
+        "Location": "PROVINCE OF CHINA TAIWAN",
+        "Currency": "New Taiwan Dollar",
+        "Code": "TWD",
+        "Num": "901",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "NT$",
+        "Fraction": 2
+    },
+    "936": {
+        "Location": "GHANA",
+        "Currency": "Ghana Cedi",
+        "Code": "GHS",
+        "Num": "936",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 2
+    },
+    "937": {
+        "Location": "VENEZUELA",
+        "Currency": "Bolivar Fuerte",
+        "Code": "VEF",
+        "Num": "937",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "Bs",
+        "Fraction": 2
+    },
+    "938": {
+        "Location": "SUDAN",
+        "Currency": "Sudanese Pound",
+        "Code": "SDG",
+        "Num": "938",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 2
+    },
+    "940": {
+        "Location": "URUGUAY",
+        "Currency": "Uruguay Peso en Unidades Indexadas",
+        "Code": "UYI",
+        "Num": "940",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": ""
+    },
+    "941": {
+        "Location": "SERBIA",
+        "Currency": "Serbian Dinar",
+        "Code": "RSD",
+        "Num": "941",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "Дин.",
+        "Fraction": 2
+    },
+    "943": {
+        "Location": "MOZAMBIQUE",
+        "Currency": "Metical",
+        "Code": "MZN",
+        "Num": "943",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "MT",
+        "Fraction": 2
+    },
+    "944": {
+        "Location": "AZERBAIJAN",
+        "Currency": "Azerbaijanian Manat",
+        "Code": "AZN",
+        "Num": "944",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "ман",
+        "Fraction": 2
+    },
+    "946": {
+        "Location": "ROMANIA",
+        "Currency": "New Leu",
+        "Code": "RON",
+        "Num": "946",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "lei",
+        "Fraction": 2
+    },
+    "947": {
+        "Location": "SWITZERLAND",
+        "Currency": "WIR Euro",
+        "Code": "CHE",
+        "Num": "947",
+        "CCC": "1",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 2
+    },
+    "948": {
+        "Location": "SWITZERLAND",
+        "Currency": "WIR Franc",
+        "Code": "CHW",
+        "Num": "948",
+        "CCC": "1",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 2
+    },
+    "949": {
+        "Location": "TURKEY",
+        "Currency": "New Turkish Lira",
+        "Code": "TRY",
+        "Num": "949",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "₺",
+        "Fraction": 2
+    },
+    "950": {
+        "Location": "GABON",
+        "Currency": "CFA Franc BEAC",
+        "Code": "XAF",
+        "Num": "950",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "₣",
+        "Fraction": ""
+    },
+    "951": {
+        "Location": "SAINT VINCENT AND THE GRENADINES",
+        "Currency": "East Caribbean Dollar",
+        "Code": "XCD",
+        "Num": "951",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "$",
+        "Fraction": 2
+    },
+    "952": {
+        "Location": "TOGO",
+        "Currency": "CFA Franc BCEAO †",
+        "Code": "XOF",
+        "Num": "952",
+        "CCC": "",
+        "Obsolete": "",
+        "TextSymbol": "CFA",
+        "Symbol": "₣",
+        "Fraction": ""
+    },
+    "953": {
+        "Location": "WALLIS AND FUTUNA",
+        "Currency": "CFP Franc",
+        "Code": "XPF",
+        "Num": "953",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": ""
+    },
+    "955": {
+        "Location": "",
+        "Currency": "Bond Markets Units European Composite Unit (EURCO)",
+        "Code": "XBA",
+        "Num": "955",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": ""
+    },
+    "956": {
+        "Location": "",
+        "Currency": "European Monetary Unit (E.M.U.-6)",
+        "Code": "XBB",
+        "Num": "956",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": ""
+    },
+    "957": {
+        "Location": "",
+        "Currency": "European Unit of Account 9(E.U.A.-9)",
+        "Code": "XBC",
+        "Num": "957",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": ""
+    },
+    "958": {
+        "Location": "",
+        "Currency": "European Unit of Account 17(E.U.A.-17)",
+        "Code": "XBD",
+        "Num": "958",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": ""
+    },
+    "959": {
+        "Location": "",
+        "Currency": "Gold",
+        "Code": "XAU",
+        "Num": "959",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": ""
+    },
+    "960": {
+        "Location": "INTERNATIONAL MONETARY FUND (I.M.F)",
+        "Currency": "SDR",
+        "Code": "XDR",
+        "Num": "960",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": ""
+    },
+    "961": {
+        "Location": "",
+        "Currency": "Silver",
+        "Code": "XAG",
+        "Num": "961",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": ""
+    },
+    "962": {
+        "Location": "",
+        "Currency": "Platinum",
+        "Code": "XPT",
+        "Num": "962",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": ""
+    },
+    "963": {
+        "Location": "",
+        "Currency": "Codes specifically reserved for testing purposes",
+        "Code": "XTS",
+        "Num": "963",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": ""
+    },
+    "964": {
+        "Location": "",
+        "Currency": "Palladium",
+        "Code": "XPD",
+        "Num": "964",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": ""
+    },
+    "968": {
+        "Location": "SURINAME",
+        "Currency": "Surinam Dollar",
+        "Code": "SRD",
+        "Num": "968",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "$",
+        "Fraction": 2
+    },
+    "969": {
+        "Location": "MADAGASCAR",
+        "Currency": "Malagasy Ariary",
+        "Code": "MGA",
+        "Num": "969",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 2
+    },
+    "970": {
+        "Location": "COLOMBIA",
+        "Currency": "Unidad de Valor Real",
+        "Code": "COU",
+        "Num": "970",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 2
+    },
+    "971": {
+        "Location": "AFGHANISTAN",
+        "Currency": "Afghani",
+        "Code": "AFN",
+        "Num": "971",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "؋",
+        "Fraction": 2
+    },
+    "972": {
+        "Location": "TAJIKISTAN",
+        "Currency": "Somoni",
+        "Code": "TJS",
+        "Num": "972",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 2
+    },
+    "973": {
+        "Location": "ANGOLA",
+        "Currency": "Kwanza",
+        "Code": "AOA",
+        "Num": "973",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "Kz",
+        "Fraction": 2
+    },
+    "974": {
+        "Location": "BELARUS",
+        "Currency": "Belarussian Ruble",
+        "Code": "BYR",
+        "Num": "974",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "p.",
+        "Fraction": ""
+    },
+    "975": {
+        "Location": "BULGARIA",
+        "Currency": "Bulgarian Lev",
+        "Code": "BGN",
+        "Num": "975",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "лв",
+        "Fraction": 2
+    },
+    "976": {
+        "Location": "THE DEMOCRATIC REPUBLIC OF CONGO",
+        "Currency": "Franc Congolais",
+        "Code": "CDF",
+        "Num": "976",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 2
+    },
+    "977": {
+        "Location": "BOSNIA AND HERZEGOVINA",
+        "Currency": "Convertible Marks",
+        "Code": "BAM",
+        "Num": "977",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "KM",
+        "Fraction": 2
+    },
+    "978": {
+        "Location": "SPAIN",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "Num": "978",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "€",
+        "Fraction": 2
+    },
+    "979": {
+        "Location": "MEXICO",
+        "Currency": "Mexican Unidad de Inversion (UDI)",
+        "Code": "MXV",
+        "Num": "979",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 2
+    },
+    "980": {
+        "Location": "UKRAINE",
+        "Currency": "Hryvnia",
+        "Code": "UAH",
+        "Num": "980",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "₴",
+        "Fraction": 2
+    },
+    "981": {
+        "Location": "GEORGIA",
+        "Currency": "Lari",
+        "Code": "GEL",
+        "Num": "981",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 2
+    },
+    "984": {
+        "Location": "BOLIVIA",
+        "Currency": "Mvdol",
+        "Code": "BOV",
+        "Num": "984",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "$b",
+        "Fraction": 2
+    },
+    "985": {
+        "Location": "POLAND",
+        "Currency": "Zloty",
+        "Code": "PLN",
+        "Num": "985",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "zł",
+        "Fraction": 2
+    },
+    "986": {
+        "Location": "BRAZIL",
+        "Currency": "Brazilian Real",
+        "Code": "BRL",
+        "Num": "986",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "R$",
+        "Fraction": 2
+    },
+    "990": {
+        "Location": "CHILE",
+        "Currency": "Unidades de fomento",
+        "Code": "CLF",
+        "Num": "990",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 4
+    },
+    "997": {
+        "Location": "UNITED STATES",
+        "Currency": "US Dollar (Next day)",
+        "Code": "USN",
+        "Num": "997",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 2
+    },
+    "998": {
+        "Location": "UNITED STATES",
+        "Currency": "US Dollar (Same day)",
+        "Code": "USS",
+        "Num": "998",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": ""
+    },
+    "999": {
+        "Location": "",
+        "Currency": "The codes assigned for transactions where no currency is involved are:",
+        "Code": "XXX",
+        "Num": "999",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": ""
+    },
+    "008": {
+        "Location": "ALBANIA",
+        "Currency": "Lek",
+        "Code": "ALL",
+        "Num": "8",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "Lek",
+        "Fraction": 2
+    },
+    "012": {
+        "Location": "ALGERIA",
+        "Currency": "Algerian Dinar",
+        "Code": "DZD",
+        "Num": "12",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "د.ج",
+        "Fraction": 2
+    },
+    "032": {
+        "Location": "ARGENTINA",
+        "Currency": "Argentine Peso",
+        "Code": "ARS",
+        "Num": "32",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "$",
+        "Fraction": 2
+    },
+    "051": {
+        "Location": "ARMENIA",
+        "Currency": "Armenian Dram",
+        "Code": "AMD",
+        "Num": "51",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "",
+        "Fraction": 2
+    },
+    "036": {
+        "Location": "TUVALU",
+        "Currency": "Australian Dollar",
+        "Code": "AUD",
+        "Num": "36",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "$",
+        "Fraction": 2
+    },
+    "044": {
+        "Location": "BAHAMAS",
+        "Currency": "Bahamian Dollar",
+        "Code": "BSD",
+        "Num": "44",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "$",
+        "Fraction": 2
+    },
+    "048": {
+        "Location": "BAHRAIN",
+        "Currency": "Bahraini Dinar",
+        "Code": "BHD",
+        "Num": "48",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "BD",
+        "Fraction": 3
+    },
+    "050": {
+        "Location": "BANGLADESH",
+        "Currency": "Taka",
+        "Code": "BDT",
+        "Num": "50",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "৳",
+        "Fraction": 2
+    },
+    "052": {
+        "Location": "BARBADOS",
+        "Currency": "Barbados Dollar",
+        "Code": "BBD",
+        "Num": "52",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "$",
+        "Fraction": 2
+    },
+    "084": {
+        "Location": "BELIZE",
+        "Currency": "Belize Dollar",
+        "Code": "BZD",
+        "Num": "84",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "BZ$",
+        "Fraction": 2
+    },
+    "060": {
+        "Location": "BERMUDA",
+        "Currency": "Bermudian Dollar",
+        "Code": "BMD",
+        "Num": "60",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "$",
+        "Fraction": 2
+    },
+    "064": {
+        "Location": "BHUTAN",
+        "Currency": "Ngultrum",
+        "Code": "BTN",
+        "Num": "64",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "Nu",
+        "Fraction": 2
+    },
+    "068": {
+        "Location": "BOLIVIA",
+        "Currency": "Boliviano",
+        "Code": "BOB",
+        "Num": "68",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "$b",
+        "Fraction": 2
+    },
+    "072": {
+        "Location": "BOTSWANA",
+        "Currency": "Pula",
+        "Code": "BWP",
+        "Num": "72",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "P",
+        "Fraction": 2
+    },
+    "096": {
+        "Location": "BRUNEI DARUSSALAM",
+        "Currency": "Brunei Dollar",
+        "Code": "BND",
+        "Num": "96",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "$",
+        "Fraction": 2
+    },
+    "090": {
+        "Location": "SOLOMON ISLANDS",
+        "Currency": "Solomon Islands Dollar",
+        "Code": "SBD",
+        "Num": "90",
+        "CCC": "",
+        "Obsolete": "",
+        "Symbol": "$",
+        "Fraction": 2
+    }
+}
