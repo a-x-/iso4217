@@ -6,7 +6,7 @@ iso4217 currency codes table and helpers
 import currencies, { utils } from 'iso4217';
 
 /** 
- * @example 840 => ({
+ * @example '840' => ({
   "Location": "UNITED STATES",
   "Currency": "US Dollar",
   "Code": "USD",
